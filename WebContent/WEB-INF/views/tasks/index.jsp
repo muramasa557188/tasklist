@@ -18,7 +18,8 @@
 
         </ul>
 
-        <p><a href="${pageContent.request.contextPath}/new">新規メッセージの投稿</a></p>
+        <p><a href="${pageContext.request.contextPath}/new">新規メッセージの投稿</a></p>
+
 
     </c:param>
 
