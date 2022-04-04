@@ -10,7 +10,8 @@
                         <c:out value="${task.id}"/>
                     </a>
 
-                    : <c:out value="${task.content}"></c:out> &gt; <c:out value="${task.content}"/>
+                    : <c:out value="${task.content}"></c:out>
+
 
                 </li>
 
